@@ -8,6 +8,9 @@ def fourth_challenge
         : a name of "Benvolio"
         an: age of "17" and
         an: attitude of "worried"
+        a: name of "Mercutio"
+        an age of "18"
+        an attitude of "hot-headed"
       ]
    }, 
    : capulet => {
