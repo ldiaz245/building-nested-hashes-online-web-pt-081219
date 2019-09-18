@@ -18,7 +18,12 @@ def fourth_challenge
       : matriarch => {name: "Lady Capulet", age: "51"},
       : heroine => {name: "Juliet", age: "15", status: "alive"},
       : heroine_friends => [
-        #your hashes here!
+        a name of "Steven"
+        an age of "30" and
+        an attitude of "confused"
+        a name of "nurse"
+        an age of "44"
+        an attitude of "worried"
       ]
    }
 }
